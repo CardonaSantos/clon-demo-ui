@@ -351,7 +351,7 @@ export default function Layout2({ children }: LayoutProps) {
 
           {/* Footer */}
           <footer className="bg-background py-4 text-center text-sm text-muted-foreground border-t border-border">
-            <p>&copy; 2024 Novas Sistemas. Todos los derechos reservados</p>
+            <p>&copy; 2024. Todos los derechos reservados</p>
           </footer>
         </div>
       </SidebarProvider>
